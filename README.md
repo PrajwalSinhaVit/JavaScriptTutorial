@@ -1,4 +1,4 @@
-# JavaScriptTutorial
+# JavaScriptTutorialWithProjects
 Start Date --> 07 june
 Tentative End Date --> 14 june
 then start backend web development and make another repository.
